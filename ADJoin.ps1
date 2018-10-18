@@ -1,1 +1,1 @@
-restart-computer -computername "custscrptextn" -Force
+restart-computer -computername "custscrptextn" 
